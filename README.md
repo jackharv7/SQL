@@ -1,4 +1,5 @@
 # Employee Database: A Mystery in Two Parts
+This project is focused on analyzing employee data through the use of SQL Postgres to query data and develope dataframes with the information we are looking for. At the end the data is imported into a Python file that creates visualizations from the employee data.
 * Postgres
 * Python
   * from SQLAlchemy import create_engine
